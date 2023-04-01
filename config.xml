@@ -9,5 +9,6 @@
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <preference name="AndroidPersistentFileLocation" value="Compatibility" />
+    <preference name="johnwesthoff.com" value="localhost" />
     <preference name="AndroidExtraFilesystems" value="files,cache, sdcard, cache-external, files-external" />
 </widget>
